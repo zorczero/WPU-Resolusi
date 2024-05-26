@@ -2,7 +2,9 @@ rencana konten wpu
 - javascript
   * es6
   * framework javascript
+    ^ Vue
 - Struktur DataDasar
 - PHP framework
+  ^ Laravel
 - interview
 - vlogs
