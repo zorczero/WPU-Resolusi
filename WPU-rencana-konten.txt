@@ -2,6 +2,7 @@ rencana konten wpu
 - javascript
   * es6
   * framework javascript
+- Struktur DataDasar
 - PHP framework
 - interview
 - vlogs
