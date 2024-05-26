@@ -3,6 +3,7 @@ rencana konten wpu
   * es6
   * framework javascript
     ^ Vue
+    ^ React
 - Struktur DataDasar
 - PHP framework
   ^ Laravel
